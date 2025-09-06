@@ -1,0 +1,1998 @@
+{
+    "famous": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        },
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        }
+    ],
+    "offers": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "heart": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        },
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        }
+    ],
+    "direct": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        }
+    ],
+    "sousse": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        }
+    ],
+    "beach": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        }
+    ],
+    "golden": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        }
+    ],
+    "luxury": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        },
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        },
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "jaafer": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        }
+    ],
+    "sea": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "bou": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        }
+    ],
+    "located": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        },
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "views": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        },
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        },
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "access": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        },
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        },
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "movenpick": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        }
+    ],
+    "sands": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        }
+    ],
+    "tunisia": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        },
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        },
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        },
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        }
+    ],
+    "along": [
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Bou jaafer",
+            "description": "Located in the heart of Sousse along the famous Bou Jaafer beach, Movenpick offers luxury, sea views, and direct access to Tunisia’s golden sands."
+        },
+        {
+            "name": "Movenpick Sousse",
+            "location": "Sousse, Tunisia",
+            "description": "Located in the heart of Sousse along the famous Bou..."
+        }
+    ],
+    "comfort": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "peace": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "perfect": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        },
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "modern": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        },
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        },
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        }
+    ],
+    "culture": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "aesthetics": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "seeking": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "traditional": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        },
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        }
+    ],
+    "charming": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "japan": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        },
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "kyoto": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "japanese": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "sakura": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "travelers": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "hotel": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        },
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        },
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        },
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        },
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        },
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        },
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "blending": [
+        {
+            "name": "Kyoto Sakura Hotel",
+            "location": "Kyoto, Japan",
+            "description": "A charming hotel in Kyoto blending traditional Japanese aesthetics with modern comfort, perfect for travelers seeking peace and culture."
+        }
+    ],
+    "panoramic": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "central": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "tokyo": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "shopping": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "rooms": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "tower": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "districts": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "elegant": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        },
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        },
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "skyline": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "quick": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "tech": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "high-rise": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "inn": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "offering": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        },
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        },
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        },
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        },
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        },
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "sky": [
+        {
+            "name": "Tokyo Sky Tower Inn",
+            "location": "Tokyo, Japan",
+            "description": "A high-rise hotel in central Tokyo offering panoramic skyline views, elegant rooms, and quick access to shopping and tech districts."
+        }
+    ],
+    "alps": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "view": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        }
+    ],
+    "switzerland": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        },
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "nestled": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "breathtaking": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "mountain": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "resort": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "zermatt": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "swiss": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "ski": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "alpine": [
+        {
+            "name": "Alpine View Resort",
+            "location": "Zermatt, Switzerland",
+            "description": "Nestled in the Swiss Alps in Zermatt, this resort offers breathtaking mountain views, ski access, and alpine luxury."
+        }
+    ],
+    "palace": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "lake": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "proximity": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        },
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "service": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "city": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "high-end": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "lakeside": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "geneva": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "attractions": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "shores": [
+        {
+            "name": "Lake Geneva Palace",
+            "location": "Geneva, Switzerland",
+            "description": "An elegant hotel on the shores of Lake Geneva, offering high-end service, lakeside views, and proximity to the city’s attractions."
+        }
+    ],
+    "la": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        }
+    ],
+    "design": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "near": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        },
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "charm": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "combines": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "spanish": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "boutique": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "rambla": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "spain": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "barcelona": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        }
+    ],
+    "authentic": [
+        {
+            "name": "La Rambla Boutique Hotel",
+            "location": "Barcelona, Spain",
+            "description": "Located in the heart of Barcelona near La Rambla, this boutique hotel combines modern design with authentic Spanish charm."
+        },
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        },
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "romantic": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "italie": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "venice": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "venise": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "dishes": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        }
+    ],
+    "tunisian": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "mediterranean": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        },
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "restaurant": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        },
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        },
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        },
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        },
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "serving": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "atmosphere": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        }
+    ],
+    "dar": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "canal": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "cozy": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        }
+    ],
+    "medina": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "el": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        },
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "twist": [
+        {
+            "name": "Dar El Medina",
+            "location": "Italie, Venise",
+            "description": "A cozy restaurant in Venice serving Mediterranean dishes with a Tunisian twist, offering a romantic atmosphere by the canal."
+        }
+    ],
+    "formal": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "des": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "palais": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "gatherings": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "event": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "hosting": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "congrès": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "tunis": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "business": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "fine": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        }
+    ],
+    "upscale": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        }
+    ],
+    "dining": [
+        {
+            "name": "Palais des Congrès",
+            "location": "Tunis, Tunisia",
+            "description": "Located in Tunis, this upscale restaurant is perfect for business and formal gatherings, offering fine dining and event hosting."
+        },
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        },
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        }
+    ],
+    "italy": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        },
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "bright": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "cuisine": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        },
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "canals": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "close": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "le": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        },
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        },
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "soleil": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "known": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "welcoming": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "restaurant-hotel": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "ambiance": [
+        {
+            "name": "Hotel Le Soleil",
+            "location": "Italie, Venise",
+            "description": "A welcoming restaurant-hotel in Venice, Italy, known for its bright ambiance, authentic cuisine, and close proximity to the canals."
+        }
+    ],
+    "stunning": [
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        },
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "kenz": [
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        }
+    ],
+    "royal": [
+        {
+            "name": "Hotel Royal Kenz",
+            "location": "Sousse, Tunisia",
+            "description": "A luxury hotel with stunning views of the Mediterranean Sea."
+        }
+    ],
+    "sidi": [
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        }
+    ],
+    "said": [
+        {
+            "name": "Sidi Bou Said Restaurant",
+            "location": "Sidi Bou Said, Tunisia",
+            "description": "Fine dining with a view of the Mediterranean Sea."
+        }
+    ],
+    "gourmet": [
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        }
+    ],
+    "de": [
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "nour": [
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        }
+    ],
+    "setting": [
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        }
+    ],
+    "table": [
+        {
+            "name": "La Table de Nour",
+            "location": "Tunis, Tunisia",
+            "description": "Gourmet cuisine in a modern and elegant setting."
+        }
+    ],
+    "blue": [
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        }
+    ],
+    "spot": [
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        }
+    ],
+    "djerba": [
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        }
+    ],
+    "seafood": [
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        },
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "popular": [
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        }
+    ],
+    "room": [
+        {
+            "name": "The Blue Room",
+            "location": "Djerba, Tunisia",
+            "description": "A popular spot offering Mediterranean seafood."
+        }
+    ],
+    "mouradi": [
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "beachfront": [
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "spa": [
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "facilities": [
+        {
+            "name": "Hotel El Mouradi",
+            "location": "Tunis, Tunisia",
+            "description": "A modern hotel with spa facilities and beachfront access."
+        }
+    ],
+    "sfax": [
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        }
+    ],
+    "french": [
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        }
+    ],
+    "wide": [
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        }
+    ],
+    "variety": [
+        {
+            "name": "Le Gourmet",
+            "location": "Sfax, Tunisia",
+            "description": "A French restaurant offering a wide variety of dishes."
+        }
+    ],
+    "monastir": [
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        }
+    ],
+    "mistral": [
+        {
+            "name": "Hotel Mistral",
+            "location": "Monastir, Tunisia",
+            "description": "Charming hotel located near the beach with a cozy atmosphere."
+        }
+    ],
+    "world-class": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        }
+    ],
+    "new": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "ritz-carlton": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        }
+    ],
+    "usa": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "york": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "luxurious": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        }
+    ],
+    "experience": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        }
+    ],
+    "nyc": [
+        {
+            "name": "The Ritz-Carlton",
+            "location": "New York, USA",
+            "description": "A luxurious hotel offering a world-class experience in the heart of NYC."
+        },
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "specialty": [
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "acclaimed": [
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "one": [
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "restaurants": [
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "bernardin": [
+        {
+            "name": "Le Bernardin",
+            "location": "New York, USA",
+            "description": "One of the most acclaimed restaurants in NYC with seafood as the specialty."
+        }
+    ],
+    "louvre": [
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        }
+    ],
+    "museum": [
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        }
+    ],
+    "france": [
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "paris": [
+        {
+            "name": "Louvre Restaurant",
+            "location": "Paris, France",
+            "description": "A world-class dining experience near the famous Louvre Museum."
+        },
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "champs-élysées": [
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "crillon": [
+        {
+            "name": "Hotel de Crillon",
+            "location": "Paris, France",
+            "description": "A luxury hotel with elegant rooms, located near the Champs-Élysées."
+        }
+    ],
+    "uk": [
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        },
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "bristol": [
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        }
+    ],
+    "amenities": [
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        }
+    ],
+    "historic": [
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        }
+    ],
+    "blend": [
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        }
+    ],
+    "london": [
+        {
+            "name": "Hotel Bristol",
+            "location": "London, UK",
+            "description": "A historic hotel offering a blend of traditional luxury and modern amenities."
+        },
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "contemporary": [
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "ledbury": [
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "michelin-starred": [
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "european": [
+        {
+            "name": "The Ledbury",
+            "location": "London, UK",
+            "description": "A Michelin-starred restaurant with contemporary European cuisine."
+        }
+    ],
+    "epitome": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "7-star": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "uae": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "gulf": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "al": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "arab": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "dubai": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "arabian": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "burj": [
+        {
+            "name": "The Burj Al Arab",
+            "location": "Dubai, UAE",
+            "description": "A 7-star hotel, the epitome of luxury, located in the Arabian Gulf."
+        }
+    ],
+    "pizza": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "italian": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "pasta": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "mamma": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "renowned": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "rome": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "mia": [
+        {
+            "name": "Mamma Mia",
+            "location": "Rome, Italy",
+            "description": "A renowned restaurant offering authentic Italian pizza and pasta."
+        }
+    ],
+    "coast": [
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ],
+    "amalfi": [
+        {
+            "name": "Hotel Amalfi",
+            "location": "Amalfi Coast, Italy",
+            "description": "A charming hotel offering stunning views of the Mediterranean Sea."
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "user": {
+        "id": 6,
+        "location": null
+    },
+    "establishments": [
+        {
+            "id_establishment": 1,
+            "location": "Sousse, Bou jaafer",
+            "price": "90.00",
+            "stars": 4,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 2,
+            "location": "Kyoto, Japan",
+            "price": "250.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 3,
+            "location": "Tokyo, Japan",
+            "price": "300.00",
+            "stars": 4,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 4,
+            "location": "Zermatt, Switzerland",
+            "price": "350.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 5,
+            "location": "Geneva, Switzerland",
+            "price": "400.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 6,
+            "location": "Barcelona, Spain",
+            "price": "190.00",
+            "stars": 3,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 8,
+            "location": "Italie, Venise",
+            "price": "90.00",
+            "stars": 2,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 9,
+            "location": "Tunis, Tunisia",
+            "price": "300.00",
+            "stars": 1,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 10,
+            "location": "Italie, Venise",
+            "price": "150.00",
+            "stars": 3,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 12,
+            "location": "Sousse, Tunisia",
+            "price": "110.00",
+            "stars": 4,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 13,
+            "location": "Sidi Bou Said, Tunisia",
+            "price": "50.00",
+            "stars": 5,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 14,
+            "location": "Tunis, Tunisia",
+            "price": "60.00",
+            "stars": 4,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 15,
+            "location": "Djerba, Tunisia",
+            "price": "45.00",
+            "stars": 4,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 16,
+            "location": "Tunis, Tunisia",
+            "price": "95.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 18,
+            "location": "Sfax, Tunisia",
+            "price": "70.00",
+            "stars": 4,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 19,
+            "location": "Monastir, Tunisia",
+            "price": "85.00",
+            "stars": 3,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 21,
+            "location": "New York, USA",
+            "price": "500.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 22,
+            "location": "New York, USA",
+            "price": "120.00",
+            "stars": 5,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 24,
+            "location": "Paris, France",
+            "price": "150.00",
+            "stars": 4,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 25,
+            "location": "Paris, France",
+            "price": "400.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 26,
+            "location": "London, UK",
+            "price": "350.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 27,
+            "location": "London, UK",
+            "price": "100.00",
+            "stars": 5,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 28,
+            "location": "Dubai, UAE",
+            "price": "1500.00",
+            "stars": 5,
+            "type": "hotel"
+        },
+        {
+            "id_establishment": 29,
+            "location": "Rome, Italy",
+            "price": "45.00",
+            "stars": 4,
+            "type": "restaurant"
+        },
+        {
+            "id_establishment": 30,
+            "location": "Amalfi Coast, Italy",
+            "price": "250.00",
+            "stars": 5,
+            "type": "hotel"
+        }
+    ]
+}

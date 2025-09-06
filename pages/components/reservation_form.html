@@ -1,0 +1,31 @@
+<div class="background">
+  <div id="reservationModal" class="reservation-container">
+    <center><h1>Make a Reservation</h1></center>
+    <hr>
+    <form action="makeReservation.php" method="POST">
+
+      <div class="reservation-content">
+        <label for="guests">Number of Guests:</label>
+        <input type="number" placeholder="Number of guests" name="guests" min="1" required>
+        <input type="hidden" name="article_id" id="article_id">
+      </div>
+
+      <div class="reservation-content">
+        <label for="checkin">Check-in Date:</label>
+        <input type="date" name="checkin" required>
+        <label for="checkout">Check-out Date:</label>
+        <input type="date" name="checkout" required>
+      </div>
+
+      <div class="reservation-content">
+        <label for="price">Total Price:</label>
+        <input type="text" name="price" disabled>
+      </div>
+
+      <div class="reservation-buttons">
+        <button type="reset" id="annuler" class="close-form">Annuler</button>
+        <button type="submit" id="confirmer" class="confirm-res">Reserve</button>
+      </div>
+    </form>
+  </div>
+</div>

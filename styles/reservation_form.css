@@ -1,0 +1,78 @@
+.modal-header{
+  display: flex; flex-direction: column;
+  align-items: center; text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.modal-header h5{
+  font-size: 1.9rem; color: #05203c; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.modal-header h6{
+  font-family: 1.8rem; color: #05203c; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.modal-body{
+  display: flex; flex-direction: column; justify-content: center; gap: 1rem;
+}
+
+.modal-content form{
+  width: 70%;
+}
+
+.form-label{
+  font-family: Arial, Helvetica, sans-serif; font-size: 1rem;
+}
+
+.mb{
+  display: flex; flex-direction: column;
+}
+
+.mb input{
+  width: 100%; height: 2.5rem;
+  padding: 10px;
+  outline: none; border: 1px solid #eee;
+  caret-color: #05203c; border-radius: 5px;
+}
+
+.mb input:focus{
+  border: 1px solid #05203c;
+  transition: .3s;
+}
+
+.modal-content{
+  display: flex; flex-direction: column; gap: 0.5rem; align-items: center; justify-content: center;
+  margin: 5px;
+}
+.reservation-buttons{
+  display: flex; gap: 1rem; padding: 10px; align-items: center; justify-content: center;
+  margin-bottom: 1rem;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif; font-size: 1.5rem; font-weight: 600;
+  color: #05203c;
+}
+
+#annuler, #confirmer {
+  width: 40%;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 15px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+#annuler{
+  background: #e5e7eb;
+  color: #111827;
+}
+#annuler:hover {
+  background: #d1d5db;
+}
+#confirmer {
+  background: #ef4444;
+  color: white;
+}
+#confirmer:hover {
+  background: #dc2626;
+}

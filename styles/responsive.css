@@ -1,0 +1,230 @@
+@media (max-width: 780px) {
+  .nav a, .connection a{
+    font-size: 6px;
+  }
+
+  .logo img{
+    width: 60px; height: auto;
+    margin-top: 10px;
+  }
+
+  .connection button{
+    width: 50px; height: auto;
+    margin-top: 5px; font-size: 8px;
+  }
+
+  .opt1{
+    font-size: 6px;
+    padding: 10px;
+    gap: 5px;
+  }
+
+  .articles-container h4{
+    font-size: 10px;
+  }
+  .articles-container p{
+    font-size: 8px;
+  }
+  .article-info h5{
+    font-size: 6px;
+  }
+  .article1{
+    border-radius: 5px;
+  }
+  .article-info button{
+    font-size: 6px;
+    border-radius: 8px;
+  }
+
+  .rating{
+    gap: 1px;
+  }
+  .rating i{
+    font-size: 4px;
+  }
+
+  .appear-content{
+    min-width: 50px;
+  }
+  .appear-content h3{
+    font-size: 8px;
+  }
+  .appear .appear-content a{
+    font-size: 6px;
+  }
+
+  .search h1{
+    font-size: 20px;
+  }
+  .search input{
+    padding: 10px 5px; font-size: 8px;
+  }
+  .search-container button{
+    font-size: .5rem; padding: 2px 1px;
+  }
+
+  .infos-rapide h5{
+    font-size: 10px;
+  }
+  .infos{
+    font-size: 8px;
+  }
+
+  .footer1{
+    flex-direction: column;
+  }
+  footer a, footer p{
+    font-size: 6px;
+  }
+}
+
+
+@media (min-width: 2200px) {
+  .nav a, .connection a {
+    font-size: 25px;
+  }
+
+  .logo img {
+    width: 250px; height: auto;
+  }
+
+  .connection button{
+    width: 250px; height: 80px; padding: 10px auto;
+    font-size: 25px;
+  }
+
+  .opt1 {
+    font-size: 25px;
+    padding: 25px;
+    gap: 15px;
+  }
+
+  .articles-container h4 {
+    font-size: 30px;
+  }
+  .articles-container p {
+    font-size: 20px;
+  }
+  .article-info h5{
+    font-size: 1.8rem;
+  }
+  .article-info button{
+    font-size: 1.6rem;
+    border-radius: 10px;
+    height: 60px;
+  }
+  .rating i{
+    font-size: 1.8rem;
+  }
+
+  .appear-content{
+    width: 300px;
+  }
+  .appear-content h3{
+    font-size: 30px;
+  }
+  .appear .appear-content a{
+    font-size: 20px;
+  }
+
+  .search h1 {
+    font-size: 75px;
+  }
+  .search input{
+    padding: 20px 10px; font-size: 20px;
+  }
+
+  .infos-rapide h5{
+    font-size: 30px;
+  }
+  .infos{
+    font-size: 28px;
+  }
+
+  footer a, footer p{
+    font-size: 20px;
+  }
+  footer h3{
+    font-size: 15px;
+  }
+}
+
+
+@media (min-width: 3200px) {
+  .nav a, .connection a {
+    font-size: 50px;
+  }
+  .nav{
+    gap: 60px;
+  }
+
+  .logo img {
+    width: 500px; height: auto;
+  }
+
+  .appear-content{
+    width: 450px; gap: 20px;
+  }
+  .appear-content h3{
+    font-size: 50px;
+  }
+  .appear .appear-content a{
+    font-size: 40px;
+  }
+
+  .connection button{
+    width: 450px; height: 160px;
+    font-size: 40px; border-radius: 40px;
+  }
+
+  .opt1 {
+    font-size: 50px;
+    padding: 40px;
+    gap: 20px;
+  }
+
+  .articles-container h4 {
+    font-size: 55px;
+  }
+  .articles-container p {
+    font-size: 45px;
+  }
+  .article-info h5{
+    font-size: 3.5rem;
+  }
+  .article-info button{
+    font-size: 3.2rem;
+    border-radius: 30px;
+    height: 110px;
+  }
+  .rating i{
+    font-size: 3.5rem;
+  }
+
+  .search h1 {
+    font-size: 120px;
+  }
+  .search input{
+    width: 40%; padding: 40px 20px; font-size: 40px;
+  }
+  .search-container button{
+  font-size: 2.5rem; padding: 2px 1px;
+  }
+
+  .infos-rapide h5{
+    font-size: 4rem;
+  }
+  .infos h6, .infos i{
+    font-size: 4rem;
+  }
+
+  footer{
+    padding: 20px;
+  }
+  footer a, footer p{
+    font-size: 40px;
+  }
+  footer h3{
+    font-size: 35px;
+  }
+}
